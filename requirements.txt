@@ -1,0 +1,6 @@
+
+requests
+beautifulsoup4
+selenium
+fake_useragent
+scikit-learn
