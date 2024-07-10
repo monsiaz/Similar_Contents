@@ -16,7 +16,7 @@ print("Données chargées avec succès.")
 data['combined'] = data['Title 1'] + " " + data['Meta Description 1']
 print("Colonnes fusionnées en une seule colonne 'combined'.")
 
-# Méthode 1 : SBERT (méthode actuelle)
+# Méthode 1 : SBERT 
 def find_similar_sbert(data):
     print("SBERT : Démarrage du calcul des similarités.")
     start_time = time.time()
